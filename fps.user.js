@@ -4,8 +4,12 @@
 // @version      0.1.0.10
 // @description  try to take over the world!
 // @author       TumbleGamer
-// @match        https://play.boxcritters.com/*
-// @match        http://play.boxcritters.com/*
+// @match        https://boxcritters.com/play/
+// @match        https://boxcritters.com/play/?*
+// @match        https://boxcritters.com/play/#*
+// @match        https://boxcritters.com/play/index.html
+// @match        https://boxcritters.com/play/index.html?*
+// @match        https://boxcritters.com/play/index.html#*
 // @run-at       document-end
 // @grant        unsafeWindow
 // ==/UserScript==
