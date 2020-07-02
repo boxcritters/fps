@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FPS
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0.10
+// @version      0.1.1.11
 // @description  try to take over the world!
 // @author       TumbleGamer
 // @match        https://boxcritters.com/play/
