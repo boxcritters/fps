@@ -6,6 +6,7 @@
 // @version      0.1.1.12
 // @description  try to take over the world!
 // @author       TumbleGamer
+// @logo         https://github.com/boxcrittersmods/fps/raw/master/icon.png
 // @match        https://boxcritters.com/play/
 // @match        https://boxcritters.com/play/?*
 // @match        https://boxcritters.com/play/#*
