@@ -2,7 +2,8 @@
 // @name         FPS
 // @namespace    https://boxcrittersmods.ga/authors/tumblegamer/
 // @supportURL   http://discord.gg/D2ZpRUW
-// @version      0.1.1.11
+// @icon      https://github.com/boxcrittersmods/fps/raw/master/icon.png
+// @version      0.1.1.12
 // @description  try to take over the world!
 // @author       TumbleGamer
 // @match        https://boxcritters.com/play/
